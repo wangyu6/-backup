@@ -1,0 +1,5 @@
+{
+    "cmd": ["D:\\vs_share&sdk\\Python36_64\\python.exe","-u","$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+}
